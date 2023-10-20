@@ -1,0 +1,9 @@
+{
+	"name": "reallifeadf",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b00f8c1c-36f7-490a-b878-84a479058bd6",
+		"tenantId": "03f31377-5329-48b8-af25-0bfbaae62bac"
+	}
+}
